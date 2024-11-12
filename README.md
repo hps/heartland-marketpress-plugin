@@ -1,3 +1,5 @@
+## *** This library is no longer maintained! ***
+
 ## SecureSubmit MarketPress eCommerce Payment Gateway
 
 This extension allows MarketPress eCommerce to use the Heartland Payment Systems Gateway. All card data is tokenized using Heartland's SecureSubmit product.
